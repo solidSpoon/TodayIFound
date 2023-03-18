@@ -15,4 +15,4 @@ Today I Found (TIF) 项目是一个个人收藏的平台，用于记录和分享
 浏览发现 🔎
 -------
 
-想要浏览我分享的有趣发现，只需访问 [Today I Found (TIF) Issues](https://github.com/your-username/today-i-found/issues) 页面，你可以查看已有的发现、参与讨论、或给有趣的发现点赞。👍
+想要浏览我分享的有趣发现，只需访问 [Today I Found (TIF) Issues](https://github.com/solidSpoon/TodayIFound/issues) 页面，你可以查看已有的发现、参与讨论、或给有趣的发现点赞。👍
